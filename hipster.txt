@@ -1,0 +1,21 @@
+1)Fresh (No source exists)
+2)Existing source locally
+3)GitHub Project (Forking)
+git commit -m "web-project created with the first initial commit"
+1)Fresh (No source exists)
+2)Existing source locally
+3)GitHub Project (Forking)
+git commit -m "web-project created with the first initial commit"
+1)Fresh (No source exists)
+2)Existing source locally
+3)GitHub Project (Forking)
+git commit -m "web-project created with the first initial commit"
+1)Fresh (No source exists)
+2)Existing source locally
+3)GitHub Project (Forking)
+git commit -m "web-project created with the first initial commit"
+1)Fresh (No source exists)
+2)Existing source locally
+3)GitHub Project (Forking)
+git commit -m "web-project created with the first initial commit"
+
